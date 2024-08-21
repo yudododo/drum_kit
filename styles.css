@@ -1,0 +1,142 @@
+body, main {
+  background-color: #283149;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.f {
+  background-image:url("./images/bassdrum.png");
+  background-size: cover;
+}
+
+.u {
+  background-image:url("./images/crash.png");
+  background-size: cover;
+}
+
+.j {
+  background-image:url("./images/hihat.png");
+  background-size: cover;
+}
+
+.k {
+  background-image:url("./images/snare.png");
+  background-size: cover;
+}
+
+.g {
+  background-image:url("./images/tom01.png");
+  background-size: cover;
+}
+
+
+.n {
+  background-image:url("./images/floortom.png");
+  background-size: cover;
+}
+
+.set {
+  margin: 10px;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.drum {
+  border: 8px solid #404B69;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 3;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.sheet-music {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 60px;
+  position: relative;
+  background-image: url("./images/staff.png");
+  width: 700px;
+  height: 250px; 
+  background-size: contain;
+}
+
+.note_crash {
+  width: 50px;
+  height: 50px; 
+  background-image: url("./images/d_crash.png");
+  background-size: cover;
+  transform: translate(-20%, -220%); 
+}
+
+.note_bassdrum {
+  width: 50px;
+  height: 50px; 
+  background-image: url("./images/d_bassdrum.png");
+  background-size: cover;
+  background-repeat: no-repeat; 
+  transform: translate(-20%, 80%); 
+}
+
+.note_snare {
+  width: 50px;
+  height: 50px; 
+  background-image: url("./images/d_snare.png");
+  background-size: cover;
+  background-repeat: no-repeat; 
+  transform: translate(-20%, -100%); 
+}
+
+.note_hihat {
+  width: 50px;
+  height: 50px; 
+  background-image: url("./images/d_hihat.png");
+  background-size: cover;
+  background-repeat: no-repeat; 
+  transform: translate(-20%, -210%); 
+}
+
+.note_tom01 {
+  width: 50px;
+  height: 50px; 
+  background-image: url("./images/d_snare.png");
+  background-size: cover;
+  background-repeat: no-repeat; 
+  transform: translate(-20%, -150%); 
+}
+
+.note_tom03 {
+  width: 50px;
+  height: 50px; 
+  background-image: url("./images/d_snare.png");
+  background-size: cover;
+  background-repeat: no-repeat; 
+  transform: translate(-20%, -50%); 
+}
+
+
+
+
