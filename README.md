@@ -5,14 +5,15 @@
 ## Layout🌼
 
 <div style="display: flex; justify-content:center;">
-  <img src="images/layout.png" style="width: 80%;">
+  <img src="images/layout.png" style="width: 60%;">
 </div>
 
 ## Screenshot🐻💥
 
-<div style="display: flex; flex-direction: column; align-items:center;">
-  <img src="./images/screenshot.png" style="width: 80%" >
-</div> 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/mc1zNgRihtc?si=i2W433ULDlWsjwO2](https://youtu.be/mc1zNgRihtc?si=1m9Ruf7yiHME_Yxf" target="_blank">
+ <img src="./images/screenshot.png" style="width: 80%;" alt="Screenshot">
+ 點擊可觀看 demo 影片
+</a>
 
 ## The challenge🔥
 
