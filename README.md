@@ -10,9 +10,9 @@
 
 ## Screenshot🐻💥
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/mc1zNgRihtc?si=i2W433ULDlWsjwO2](https://youtu.be/mc1zNgRihtc?si=1m9Ruf7yiHME_Yxf" target="_blank">
+<a href="https://youtu.be/mc1zNgRihtc?si=WMO4FLXV5R0pS8Mn" target="_blank">
  <img src="./images/screenshot.png" style="width: 80%;" alt="Screenshot">
- 點擊可觀看 demo 影片
+ 點擊觀看 demo 影片
 </a>
 
 ## The challenge🔥
